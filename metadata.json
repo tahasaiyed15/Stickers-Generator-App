@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sticker Spark AI",
+  "description": "An AI-powered application to generate, edit, and get support for creating amazing stickers. Features include text-to-sticker generation, AI-powered image editing, and a helpful chatbot with voice support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
